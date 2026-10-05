@@ -39,6 +39,13 @@ export default function Home() {
         <p> - vedoucí práce pro skupinový projekt orientovaný na vývoj aplikace na týmové poznámky a úkoly. </p>
       </section>
 
+      <section id="certification">
+        <h2>Certifikace</h2>
+        <p>Cambridge Proficiency certifikát úrovně C2.</p>
+        <p>Certifikát o absolvování 3 týdenního jazykového kurzu v Brightonu.</p>
+        <p>Certifikát o absolvování měsíčního jazykového kurzu v San Franciscu.</p>
+      </section>
+
       <section id="main">
         <h2 id="my-projects">Mé projekty:</h2>
         <a href="https://github.com/tomasvlasakdev/cointrack">
